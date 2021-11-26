@@ -14,4 +14,5 @@ Visualizing Ride-Sharing Data using Python and Pandas with Matplotlib in Jupyter
 ## Results
 - Once we cleaned and merged the data together, we were able to identify some key insights that reaffirm baseline expectations for ride-sharing. The further you get from city centers the less accessible ride-sharing services become. The analysis results indicate that rural cities had the lowest number of rides, totalling **125 rides**; Suburban cities had more rides than urban areas with **625 rides**; and Urban cities had the highest ride volume with **1,625 rides**. The data also suggests that the costs of ride-sharing increases as the distance from the city center increases, which also impacts the number of Total Riders per city type and its accessibility as only **78 people used ride-sharing services in Rural areas as compared to Urban areas with a total of 2,405.** The results of the analysis can be referenced in the table below: 
 
-![Pyber_analysis_summary_df_screenshot]
+![Pyber_analysis_summary_df_screenshot](https://github.com/Jflux05/PyBer_Analysis/blob/14d52f2cfe5207c3183adc03c40dace94952f2c7/analysis/Pyber_analysis_summary_df.png)
+
