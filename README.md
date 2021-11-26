@@ -16,3 +16,26 @@ Visualizing Ride-Sharing Data using Python and Pandas with Matplotlib in Jupyter
 
 ![Pyber_analysis_summary_df_screenshot](https://github.com/Jflux05/PyBer_Analysis/blob/14d52f2cfe5207c3183adc03c40dace94952f2c7/analysis/Pyber_analysis_summary_df.png)
 
+### Key Take Aways:
+- Urban cities have the highest number of drivers, rides and total fares.
+  - Although the Urban cities command the most drivers, rides and fares they have the lowest average of fare per ride and fare per driver.
+- Urban cities have the highest ridership demand while Rural cities have the least.
+- Urban cities have 4x+ more drivers than Suburban cities.
+
+- Suburban cities are in the middle having the 2nd most drivers, rides and total fares.
+- Suburban cities have 6x + drivers than rural with almost 4.5x the revenue.
+
+
+- Rural cities have the least amount of drivers, rides and total fares.
+- Rural cities have the highest average fare per ride and driver.
+  - Although Rural cities see the lowest number of drivers, rides & fares;  they have the highest average fare per ride and fare per driver.
+
+
+
+
+
+- **We can make these insights from the data much easiert to understand and deduce by creating a multi-line line chart (see below), that shows the disparity and correlations of ride-sharing services across the three different city types, and it clearly demonstrates what are most likely accessibility-influenced trends.** 
+
+![pyber_analysis-fig7](https://github.com/Jflux05/PyBer_Analysis/blob/cad5e1673df19c52716426d21a441f4872e06d57/analysis/Fig7.png)
+
+
